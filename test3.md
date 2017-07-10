@@ -12,3 +12,5 @@ proovime hubis lisada
 mis siin?
 
 quick commit test
+
+staatuse test
