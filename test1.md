@@ -23,3 +23,5 @@ lisame veel
 ja veel
 
 ja viimane rida
+
+lisarida
