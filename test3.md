@@ -14,3 +14,5 @@ mis siin?
 quick commit test
 
 staatuse test
+
+lisaoks failis test3
