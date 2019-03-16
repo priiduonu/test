@@ -22,3 +22,7 @@ lisasin veel ühe reakese
 ja veel viimase
 
 see on nüüd uusoks
+
+ja siin on viimane uusoks
+
+absoluutselt
